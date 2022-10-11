@@ -1,0 +1,10 @@
+@import './vendors/mixin';
+@import './utils/value';
+@import './utils/reset';
+@import './utils/global';
+
+.class {
+  width: 100%;
+  height: 500px;
+  background-color: teal;
+}
